@@ -1,6 +1,6 @@
 ![Technologi GoDaddy Store Image!](https://user-images.githubusercontent.com/71003622/127674868-27464928-131f-4f47-8641-d13a6541d93d.png)
-
-- #👋 Hi, I’m Khushboo Goyal
+                                #👋 Hi, I’m Khushboo Goyal
+- 👋 Hi, I’m Khushboo Goyal
 - 👀 I’m a tech enthusiastic person.
 - 🌱 I’m currently exploring more on DS.
 - 📫 How to reach me : 
