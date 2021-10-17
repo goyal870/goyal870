@@ -1,4 +1,4 @@
-![Technologi GoDaddy Store Image!](https://user-images.githubusercontent.com/71003622/127674868-27464928-131f-4f47-8641-d13a6541d93d.png)
+ ![Technologi GoDaddy Store Image (1)](https://user-images.githubusercontent.com/71003622/137615539-b09ab0d1-f5aa-48ce-9e56-4e23bff9c3a6.png)
                            
 - 👋 ***Hi, I’m Khushboo Goyal***
 - 👀 ***I’m a tech enthusiastic person.***
@@ -6,6 +6,8 @@
 - 📫 ***How to reach me :*** 
         -✨ goyalkhushboo456@gmail.com
         -✨ https://www.linkedin.com/in/khushboo-goyal-433b611b2/
+       
+
 
 <!---
 goyal870/goyal870 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
